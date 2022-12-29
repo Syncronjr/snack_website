@@ -1,6 +1,15 @@
 # snack_website
 
-A new Flutter project.
+An inventory management database project with Flutter frontend and Python backend using Django.
+
+Functions include:
+- Monitoring of raw material and finished product stock
+- Inputting orders
+- Listing orders and deadline (calendar feature)
+
+Potential functions:
+- Sales recap
+- Data analysis of sales
 
 ## Getting Started
 
