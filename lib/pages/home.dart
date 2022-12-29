@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:snack_website/controllers/counterController.dart';
-import 'package:snack_website/pages/other.dart';
+import 'package:snack_website/pages/second.dart';
 
 class HomeScreen extends StatelessWidget {
   HomeScreen({super.key});
@@ -26,7 +26,7 @@ class HomeScreen extends StatelessWidget {
                       onPressed: () {
                         Get.to(Page2());
                       },
-                      child: Text("Open other page"))
+                      child: Text("Open next page"))
                 ],
               ),
             )),
